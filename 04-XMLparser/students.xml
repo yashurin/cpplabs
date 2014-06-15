@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<stud id="0">
+		<card1>12345</card1>		
+		<name>Ivan Ivanov</name>
+		<year>1995</year>
+		<spec>Computer Science</spec>
+		<avgrade>5</avgrade>
+	</stud>
+	<stud id="1">
+		<card1>12346</card1>
+		<name>Petr Petrov</name>
+		<year>1996</year>
+		<spec>Computer Science</spec>
+		<avgrade>4</avgrade>
+	</stud>
+	<stud id="2">
+		<card1>12347</card1>
+		<name>Sveta Svetina</name>
+		<year>1994</year>
+		<spec>Computer Science</spec>
+		<avgrade>4,5</avgrade>
+	</stud>
+	<stud id="3">
+		<card1>12348</card1>
+		<name>Sidor Sidorov</name>
+		<year>1995</year>
+		<spec>Physics</spec>
+		<avgrade>4</avgrade>
+	</stud>
+	<stud id="4">
+		<card1>12349</card1>
+		<name>Victor Victorov</name>
+		<year>1996</year>
+		<spec>Biology</spec>
+		<avgrade>4,1</avgrade>
+	</stud>
+</students>

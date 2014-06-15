@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cell.jpg</file>
+        <file>predator.jpg</file>
+        <file>prey.jpg</file>
+        <file>stone.jpg</file>
+    </qresource>
+</RCC>
